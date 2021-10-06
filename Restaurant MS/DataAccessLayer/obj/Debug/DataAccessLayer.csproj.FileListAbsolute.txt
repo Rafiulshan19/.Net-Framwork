@@ -1,0 +1,6 @@
+C:\Users\rafiu\source\repos\Restaurant MS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\rafiu\source\repos\Restaurant MS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\rafiu\source\repos\Restaurant MS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\rafiu\source\repos\Restaurant MS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rafiu\source\repos\Restaurant MS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\rafiu\source\repos\Restaurant MS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

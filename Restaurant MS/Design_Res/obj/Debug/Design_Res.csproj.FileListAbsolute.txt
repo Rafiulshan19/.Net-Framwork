@@ -1,0 +1,55 @@
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\bin\Debug\Design_Res.exe.config
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\bin\Debug\Design_Res.exe
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\bin\Debug\Design_Res.pdb
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.csproj.AssemblyReference.cache
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.Login.resources
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerMenu.resources
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerUser.resources
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerViewOrder.resources
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.Properties.Resources.resources
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.csproj.GenerateResource.cache
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.csproj.CoreCompileInputs.cache
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.exe
+C:\Users\rafiu\source\repos\Design_Res\Design_Res\obj\Debug\Design_Res.pdb
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\bin\Debug\Design_Res.exe.config
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\bin\Debug\Design_Res.exe
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\bin\Debug\Design_Res.pdb
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.csproj.AssemblyReference.cache
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Login.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Presentation_Layer.welcome.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Properties.Resources.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.csproj.GenerateResource.cache
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.csproj.CoreCompileInputs.cache
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.exe
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.pdb
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManageCustomer.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerMenu_UC.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerViewOrder_UC.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.ManagerUser.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.CustomerUser.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Presentation_Layer.CustomerMenu.resources
+C:\Users\rafiu\source\repos\RMS-Design-try - Copy\Design_Res\obj\Debug\Design_Res.Presentation_Layer.CustomerPlaceOrder.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.csproj.AssemblyReference.cache
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.CustomerUser.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.ManagerUser.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Login.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.CustomerMenu.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.CustomerPlaceOrder.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManageCustomer.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerMenu_UC.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.ManagerViewOrder_UC.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.welcome.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Properties.Resources.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.csproj.GenerateResource.cache
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.csproj.CoreCompileInputs.cache
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.exe
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.pdb
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\bin\Debug\Design_Res.exe.config
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\bin\Debug\Design_Res.exe
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\bin\Debug\Design_Res.pdb
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\bin\Debug\DataAccessLayer.dll
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\bin\Debug\DataAccessLayer.pdb
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.csproj.CopyComplete
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Admin.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.AdminAddItem.resources
+C:\Users\rafiu\source\repos\Restaurant MS\Design_Res\obj\Debug\Design_Res.Presentation_Layer.AdminManageEmployee.resources

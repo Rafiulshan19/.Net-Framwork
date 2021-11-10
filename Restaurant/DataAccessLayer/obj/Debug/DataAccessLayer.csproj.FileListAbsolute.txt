@@ -1,0 +1,6 @@
+F:\Fall 20-21\ADMS\Project\Restaurant\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Fall 20-21\ADMS\Project\Restaurant\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Fall 20-21\ADMS\Project\Restaurant\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Fall 20-21\ADMS\Project\Restaurant\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Fall 20-21\ADMS\Project\Restaurant\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Fall 20-21\ADMS\Project\Restaurant\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

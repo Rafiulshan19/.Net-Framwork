@@ -45,9 +45,9 @@ namespace Restaurant
             this.btnManageAdmin = new System.Windows.Forms.Button();
             this.btnAddEmployee = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnMyProfile = new System.Windows.Forms.Button();
             this.lblDashboard = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -158,6 +158,7 @@ namespace Restaurant
             this.btnFinancials.TabIndex = 25;
             this.btnFinancials.Text = "Finalcals";
             this.btnFinancials.UseVisualStyleBackColor = false;
+            this.btnFinancials.Click += new System.EventHandler(this.btnFinancials_Click);
             // 
             // btnMenu
             // 
@@ -170,6 +171,7 @@ namespace Restaurant
             this.btnMenu.TabIndex = 24;
             this.btnMenu.Text = "Menu";
             this.btnMenu.UseVisualStyleBackColor = false;
+            this.btnMenu.Click += new System.EventHandler(this.btnMenu_Click);
             // 
             // btnOrder
             // 
@@ -182,6 +184,7 @@ namespace Restaurant
             this.btnOrder.TabIndex = 23;
             this.btnOrder.Text = "Order";
             this.btnOrder.UseVisualStyleBackColor = false;
+            this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);
             // 
             // btnTable
             // 
@@ -257,6 +260,16 @@ namespace Restaurant
             this.panel1.Size = new System.Drawing.Size(254, 570);
             this.panel1.TabIndex = 2;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Restaurant.Properties.Resources.admin;
+            this.pictureBox1.Location = new System.Drawing.Point(31, 95);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(190, 270);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 20;
+            this.pictureBox1.TabStop = false;
+            // 
             // btnMyProfile
             // 
             this.btnMyProfile.BackColor = System.Drawing.SystemColors.ButtonShadow;
@@ -279,16 +292,6 @@ namespace Restaurant
             this.lblDashboard.Size = new System.Drawing.Size(177, 24);
             this.lblDashboard.TabIndex = 18;
             this.lblDashboard.Text = "Admin Dashboard";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::Restaurant.Properties.Resources.admin;
-            this.pictureBox1.Location = new System.Drawing.Point(31, 95);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(190, 270);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 20;
-            this.pictureBox1.TabStop = false;
             // 
             // AdminForm
             // 

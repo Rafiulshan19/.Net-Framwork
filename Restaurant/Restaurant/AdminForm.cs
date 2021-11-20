@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Restaurant.Presentation;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -38,8 +39,30 @@ namespace Restaurant
 
         private void btnAddEmployee_Click(object sender, EventArgs e)
         {
-           // adminManageEmployee1.Visible = true;
-            //adminManageEmployee1.BringToFront();
+            AddEmployeeForm a = new AddEmployeeForm();
+            a.Show();
+            this.Hide();
+        }
+
+        private void btnMenu_Click(object sender, EventArgs e)
+        {
+            MenuForm menuForm = new MenuForm();
+            menuForm.Show();
+            this.Hide();
+        }
+
+        private void btnOrder_Click(object sender, EventArgs e)
+        {
+            OrderForm orderForm = new OrderForm();
+            orderForm.Show();
+            this.Hide();
+        }
+
+        private void btnFinancials_Click(object sender, EventArgs e)
+        {
+            PaymentForm paymentForm = new PaymentForm();
+            paymentForm.Show();
+            this.Hide();
         }
     }
 }
